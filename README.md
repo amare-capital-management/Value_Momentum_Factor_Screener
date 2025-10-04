@@ -2,7 +2,8 @@
 
 ### The script is a financial analysis tool designed to evaluate and rank stocks based on valuation and momentum factors. Here's a breakdown of its functionality:
 
-Stock List: 
+*Stock List:* 
+
 Contains a predefined list of stock tickers (primarily South African stocks with .JO suffix).
 Valuation Ratios: 
 Fetches financial metrics like Price-to-Earnings (P/E), Price-to-Book (P/B), Price-to-Sales (P/S), EV/EBITDA, and EV/GP using Yahoo Finance API.
